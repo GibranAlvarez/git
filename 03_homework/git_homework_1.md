@@ -18,7 +18,8 @@
 2. Add your GitHub repository as a remote for your local `githomework1` repository
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
-4. Include your repository URL in your submission
+4. Include your repository URL in your submission  https://github.com/GibranAlvarez/task2
+
 
 ### Task 3
 1. Create a new branch called `playing-with-bash`
